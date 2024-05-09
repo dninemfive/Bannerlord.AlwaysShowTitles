@@ -1,6 +1,7 @@
 ﻿using HarmonyLib;
 using SandBox.CampaignBehaviors;
 using TaleWorlds.CampaignSystem;
+using TaleWorlds.CampaignSystem.CampaignBehaviors;
 using TaleWorlds.CampaignSystem.ViewModelCollection.Conversation;
 
 namespace Bannerlord.AlwaysShowTitles.Patches
